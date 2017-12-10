@@ -24,7 +24,7 @@ This website is appropriate for pharmacies. It presents different of medicine wi
 * Javascript:
   * [jQuery](http://jquery.com/).
   * [Bootstrap](http://getbootstrap.com/).
-  * [Animsition](http://mynameismatthieu.com/WOW/). 
+  * [Animation](http://mynameismatthieu.com/WOW/). 
   * [Bootstrapvalidator](http://bootstrapvalidator.votintsev.ru/getting-started).
   * [Nice Scroll](https://nicescroll.areaaperta.com/).
   * [Bootstrap Modal](https://getbootstrap.com/docs/4.0/components/modal).
