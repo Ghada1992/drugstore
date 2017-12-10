@@ -82,7 +82,7 @@ $(function(){
   });
 
   /*show/hide user comments*/
-  $('.comment-box.hide-comment-box').hide();
+  //$('.comment-box.hide-comment-box').hide();
 
   $('.comment-section .arrow i').click(function(){
 
