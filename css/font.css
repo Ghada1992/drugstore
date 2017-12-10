@@ -1,0 +1,21 @@
+@font-face{
+  font-family:'Droid Arabic Kufi';
+  src: url('droidkufi-bold.eot');
+  src: local('Droid Arabic Kufi'),
+       local('Droid-Arabic-Kufi'),
+       url('../fonts/webfont/droidkufi-bold.otf') format('opentype'),
+       url('../fonts/webfont/droidkufi-bold.woff') format('woff'),
+       url("../fonts/webfont/droidkufi-bold.ttf") format("truetype"), 
+       url('../fonts/webfont/droidkufi-bold.svg')  format('svg');
+}
+
+@font-face{ 
+  font-family:'droidkufi-regular';
+  src: url('droidkufi-regular.eot');
+  src: local('droidkufi-regular'),
+       local('droidkufi regular'),
+       url('../fonts/webfont/droidkufi-regular.otf') format('opentype'),
+       url('../fonts/webfont/droidkufi-regular.woff') format('woff'),
+       url("../fonts/webfont/droidkufi-regular.ttf") format("truetype"), 
+       url('../fonts/webfont/droidkufi-regular.svg')  format('svg');
+}
