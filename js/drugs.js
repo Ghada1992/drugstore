@@ -3,7 +3,7 @@ $(function(){
  /*Firing WOW animation library*/
   new WOW().init();
 
- /*Firing nice scroll library */
+ /*Firing nice scroll library 
   var scroll= function(){$("html").niceScroll({
      	cursorcolor: "#89C532",
      	cursorwidth: "10px",
@@ -11,7 +11,7 @@ $(function(){
      	cursorborderradius: "0px",
      });
 }
-  scroll();
+  scroll();*/
 
 
   //Check to see if the window is top if not then display button
